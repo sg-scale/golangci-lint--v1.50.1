@@ -1,6 +1,6 @@
 module github.com/golangci/golangci-lint
 
-go 1.19
+go 1.23
 
 require (
 	4d63.com/gochecknoglobals v0.1.0
@@ -47,7 +47,7 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-version v1.6.0
 	github.com/hexops/gotextdiff v1.0.3
-	github.com/jgautheron/goconst v1.5.1
+	github.com/jgautheron/goconst v1.11.0
 	github.com/jingyugao/rowserrcheck v1.1.1
 	github.com/jirfag/go-printf-func-name v0.0.0-20200119135958-7558a9eaa5af
 	github.com/julz/importas v0.1.0
