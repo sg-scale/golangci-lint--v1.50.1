@@ -1,6 +1,6 @@
 module github.com/golangci/golangci-lint
 
-go 1.19
+go 1.21
 
 require (
 	4d63.com/gochecknoglobals v0.1.0
@@ -24,7 +24,7 @@ require (
 	github.com/charithe/durationcheck v0.0.9
 	github.com/curioswitch/go-reassign v0.2.0
 	github.com/daixiang0/gci v0.8.1
-	github.com/denis-tingaikin/go-header v0.4.3
+	github.com/denis-tingaikin/go-header v0.5.0
 	github.com/esimonov/ifshort v1.0.4
 	github.com/fatih/color v1.13.0
 	github.com/firefart/nonamedreturns v1.0.4
